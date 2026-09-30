@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70686976995794aabac66ae19c608f6d, type: 3}
+  m_Name: Lake
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingSO
+  buildingName: "\uD638\uC218"
+  icon: {fileID: 1579276288095124783, guid: e188cf865018b4563af2845591a0cbd8, type: 3}
+  description: "\uC5B8\uC81C\uB098 \uC0AC\uB78C\uC774 \uBD90\uBE44\uB294 \uAD00\uAD11
+    \uBA85\uC18C.\n\uACA8\uC6B8\uC5D0\uB294 \uC5BC\uC5B4\uBD99\uC740 \uBAA8\uC2B5\uC774
+    \uB354\uC6B1 \uC2DC\uC120\uC744 \uB048\uB2E4."
+  cost: 100
+  useTime: 6
+  faithProduction: 0
+  capacitySpring: 40
+  capacitySummer: 40
+  capacityAutumn: 40
+  capacityWinter: 80
+  springVisualSprite: {fileID: 1579276288095124783, guid: e188cf865018b4563af2845591a0cbd8, type: 3}
+  summerVisualSprite: {fileID: 1579276288095124783, guid: e188cf865018b4563af2845591a0cbd8, type: 3}
+  autumnVisualSprite: {fileID: 1579276288095124783, guid: e188cf865018b4563af2845591a0cbd8, type: 3}
+  winterVisualSprite: {fileID: -2756642988610070052, guid: e188cf865018b4563af2845591a0cbd8, type: 3}

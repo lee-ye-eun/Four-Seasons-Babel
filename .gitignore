@@ -1,0 +1,53 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE / project files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash / recovery
+sysinfo.txt
+crashlytics-buildid.txt
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Fonts (license: not redistributed)
+/[Aa]ssets/06_Fonts/*.otf
+/[Aa]ssets/06_Fonts/*.otf.meta
+/[Aa]ssets/06_Fonts/*SDF.asset
+/[Aa]ssets/06_Fonts/*SDF.asset.meta
+
+# OS / tools
+.DS_Store
+.claude/

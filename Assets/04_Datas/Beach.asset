@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70686976995794aabac66ae19c608f6d, type: 3}
+  m_Name: Beach
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingSO
+  buildingName: "\uD574\uBCC0"
+  icon: {fileID: -6146795774391780013, guid: 00f16d96133414af389a5aa26cd41f1c, type: 3}
+  description: "\uC2DC\uC6D0\uD55C \uBC14\uB78C\uC774 \uBD80\uB294 \uBC14\uB2F7\uAC00.\n\uC5EC\uB984\uC5D0\uB294
+    \uC778\uAC04\uC758 \uBC1C\uAE38\uC774 \uB04A\uC774\uC9C8 \uC54A\uB294\uB2E4."
+  cost: 150
+  useTime: 7
+  faithProduction: 0
+  capacitySpring: 30
+  capacitySummer: 200
+  capacityAutumn: 30
+  capacityWinter: 10
+  springVisualSprite: {fileID: -6146795774391780013, guid: 00f16d96133414af389a5aa26cd41f1c, type: 3}
+  summerVisualSprite: {fileID: -6146795774391780013, guid: 00f16d96133414af389a5aa26cd41f1c, type: 3}
+  autumnVisualSprite: {fileID: -6146795774391780013, guid: 00f16d96133414af389a5aa26cd41f1c, type: 3}
+  winterVisualSprite: {fileID: -6146795774391780013, guid: 00f16d96133414af389a5aa26cd41f1c, type: 3}

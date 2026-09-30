@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70686976995794aabac66ae19c608f6d, type: 3}
+  m_Name: MapleForest
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingSO
+  buildingName: "\uB2E8\uD48D \uC232"
+  icon: {fileID: -3060987185585336623, guid: 42d41fdc7dc4541e38031de22607cf10, type: 3}
+  description: "\uAC00\uC744\uC5D0 \uD769\uC5B4\uC9C0\uB294 \uB2E8\uD48D\uC78E\uC774
+    \uAC78\uC74C\uC744 \uBA48\uCD94\uAC8C \uD55C\uB2E4.\n\uACA8\uC6B8\uC5D0\uB294
+    \uBAA8\uB4E0 \uC2DD\uBB3C\uC774 \uB9E4\uB9C8\uB978\uB2E4."
+  cost: 60
+  useTime: 5
+  faithProduction: 0
+  capacitySpring: 10
+  capacitySummer: 10
+  capacityAutumn: 60
+  capacityWinter: 0
+  springVisualSprite: {fileID: -3060987185585336623, guid: 42d41fdc7dc4541e38031de22607cf10, type: 3}
+  summerVisualSprite: {fileID: -3060987185585336623, guid: 42d41fdc7dc4541e38031de22607cf10, type: 3}
+  autumnVisualSprite: {fileID: -6887670395952281474, guid: 42d41fdc7dc4541e38031de22607cf10, type: 3}
+  winterVisualSprite: {fileID: 6598248310970542086, guid: 42d41fdc7dc4541e38031de22607cf10, type: 3}

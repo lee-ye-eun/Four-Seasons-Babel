@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70686976995794aabac66ae19c608f6d, type: 3}
+  m_Name: GrangTemple
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingSO
+  buildingName: "\uB300\uC2E0\uC804"
+  icon: {fileID: 5473108062610682002, guid: 47ba64d65ccb84c778fb38fba5f346d9, type: 3}
+  description: "\uC774\uACF3\uC5D0 \uB3C4\uB2EC\uD55C \uC778\uAC04\uC740 \uC601\uC6D0\uD788
+    \uC2E0\uC744 \uACBD\uBC30\uD569\uB2C8\uB2E4."
+  cost: 5000
+  useTime: 8
+  faithProduction: 8
+  capacitySpring: 200
+  capacitySummer: 200
+  capacityAutumn: 200
+  capacityWinter: 200
+  springVisualSprite: {fileID: 5473108062610682002, guid: 47ba64d65ccb84c778fb38fba5f346d9, type: 3}
+  summerVisualSprite: {fileID: 5473108062610682002, guid: 47ba64d65ccb84c778fb38fba5f346d9, type: 3}
+  autumnVisualSprite: {fileID: 5473108062610682002, guid: 47ba64d65ccb84c778fb38fba5f346d9, type: 3}
+  winterVisualSprite: {fileID: 5473108062610682002, guid: 47ba64d65ccb84c778fb38fba5f346d9, type: 3}
