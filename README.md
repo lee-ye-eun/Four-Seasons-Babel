@@ -1,4 +1,4 @@
-# 사계절 바벨 (Babel Re-Route)
+# 사계절 바벨 (Four Seasons Babel)
 
 > **2026 넥슨 대학생 게임잼 「재밌넥」 2차 과제작 — 합격작**
 >
@@ -68,8 +68,8 @@
 같은 건물도 계절에 따라 최고의 선택이 되기도, 쓸모없는 건물이 되기도 하므로 플레이어는 **매 계절 배치를 다시 고민**해야 합니다.
 
 <p align="center">
-  <img src="Docs/images/season_park.png" width="420" alt="계절별 공원 스프라이트">
-  <img src="Docs/images/season_vineyard.png" width="420" alt="계절별 포도밭 스프라이트">
+  <img src="Docs/images/season_temple.webp" width="420" alt="계절별 신전 스프라이트">
+  <img src="Docs/images/season_lake.webp" width="420" alt="호수 스프라이트 (겨울에 얼음 호수로 변화)">
 </p>
 
 ### 건물 목록
